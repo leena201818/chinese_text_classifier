@@ -1,0 +1,7 @@
+安装方法：在cmd下
+pip install XXX包名字.whl --no-index -f "依赖包所在目录"
+
+执行顺序基本按照文档处理流程来
+先分词、得到词典、得到分词后语料、得到文档模型、然后word2vec、词云、聚类、分类
+segmentWord.py - getDictinary.py-getCorpus.py-getWordModel.py-w2vDemo.py-worldCloudDemo.py-分类-聚类
+
