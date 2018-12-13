@@ -6,14 +6,14 @@
 
 2、得到词典            getDictinary.py
 
-3、得到分词后语料       getWordModel.py
+3、得到分词后语料       getCorpus.py
 
-4、得到文档模型、然后word2vec          w2vDemo.py
+4、得到文档模型         getWordModel.py
 
-5、词云              
+5、然后word2vec        w2vDemo.py
 
-6、聚类
+6、词云                worldCloudDemo.py
 
-7、分类
+6、聚类                txtClusterDemo.py、txtClusterKmeansDemo.py
 
- - -getCorpus.py-getWordModel.py-w2vDemo.py-worldCloudDemo.py-分类-聚类
+7、分类                svmClassify.py
